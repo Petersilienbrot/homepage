@@ -6,30 +6,30 @@ name = "Daniel Roth"
 superuser = true
 
 # Role/position
-role = "Master Student"
+role = "PhD Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Heidelberg University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-#bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+#bio = "My research interests include main group catalysts based on strong Lewis acids."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "d.roth@stud.uni-heidelberg.de"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Main group catalysts",
+  "Lewis Superacids",
+  "Frustrated Lewis pairs"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "M. Sc. in Chemistry"
+  institution = "Heidelberg University"
+  year = 2019
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
