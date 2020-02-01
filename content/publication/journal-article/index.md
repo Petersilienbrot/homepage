@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "The effect of side-chain length on the microstructure and processing window of zone-cast naphthalene-based bispentalenes"
 authors:
 - admin
 - Robert Ford
