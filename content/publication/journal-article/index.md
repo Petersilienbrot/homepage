@@ -20,9 +20,9 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Materials Chemistry C, 7*(43)"
-publication_short: ""
+publication_short: "*J. Mater. Chem. C, 7*(43)"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The solubilizing side-groups of solution-processable π-conjugated organic semiconductors affect both the crystal structure and microstructure of the respective thin films and thus charge-carrier mobility in devices. In this work, we explore how the alkyl side-chain length influences thin-film structure and charge transport in field-effect transistors of zone-cast, naphthalene-based bispentalenes. By tuning the alkyl-chain length and the casting speed, we alter the microstructure from highly aligned ribbons, to feathered ribbons, to disordered grains. Concurrently, the hole mobility changes over two orders of magnitude, from 0.001 cm2 V−1 s−1 at the fastest speeds to roughly 0.1 cm2 V−1 s−1 at slower speeds. The highest mobilities correspond to the presence of an aligned ribbon morphology. While optical measurements indicate negligible electronic differences between the molecules, grazing incidence X-ray diffraction measurements show that the films display different degrees of order and alignment. The compound with pentyl side-chains exhibits the largest tolerance to different processing conditions, yielding an aligned ribbon microstructure and high mobility over a wide range of casting speeds. Our results highlight the impact that even small changes to the molecular structure can have on the processing window and transport properties of thin-film devices.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
