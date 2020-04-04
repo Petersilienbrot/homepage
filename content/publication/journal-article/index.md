@@ -5,7 +5,7 @@ authors:
 - Kohei Sekine
 - Fabian Paulus
 - Yu Zhong
-- **Daniel Roth**
+- Daniel Roth
 - David Becker-Koch
 - Yvone J. Hofstetter
 - Elena Michel
