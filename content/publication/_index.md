@@ -15,4 +15,3 @@ image = ""
 caption = ""
 +++
 
-The effect of side-chain length on the microstructure and processing window of zone-cast naphthalene-based bispentalenes
