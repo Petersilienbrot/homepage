@@ -8,6 +8,7 @@ title = "Publications"
 #   4 = Citation
 view = 4
 
+title: "The effect of side-chain length on the microstructure and processing window of zone-cast naphthalene-based bispentalenes"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
