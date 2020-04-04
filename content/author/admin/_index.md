@@ -70,4 +70,4 @@ interests = [
 
 +++
 
-I am currently a PhD student at Heidelberg University, where I work in the Greb Lab. The aim of my work is to develop new Lewis acid catalysts based on typically cheap, abundant and largely unexplored main group elements to mimic and complement reactivities of known transition metal catalysts. Typical Lewis acid reactivity is supplemented by redox-active ligands which aid to broaden the scope of possible catalyses.
+I am currently a PhD student at Heidelberg University, where I work in the Greb Lab. The aim of my work is to develop new Lewis acid catalysts based on typically cheap, abundant and largely unexplored main group elements to mimic and complement reactivities of known transition metal catalystssdasdasd. Typical Lewis acid reactivity is supplemented by redox-active ligands which aid to broaden the scope of possible catalyses.
