@@ -8,7 +8,6 @@ title = "Publications"
 #   4 = Citation
 view = 4
 
-Random comment
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
