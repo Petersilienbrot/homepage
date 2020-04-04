@@ -1,8 +1,11 @@
 ---
 title: "The effect of side-chain length on the microstructure and processing window of zone-cast naphthalene-based bispentalenes"
 authors:
-- admin
-- Robert Ford
+- Katelyn Goetz
+- Kohei Sekine
+- Daniel Roth
+- A. S. K. Hashmi
+- Jana Zaumseil
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
