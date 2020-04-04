@@ -3,7 +3,18 @@ title: "The effect of side-chain length on the microstructure and processing win
 authors:
 - Katelyn Goetz
 - Kohei Sekine
-- Daniel Roth
+- Fabian Paulus
+- Yu Zhong
+- **Daniel Roth**
+- David Becker-Koch
+- Yvone J. Hofstetter
+- Elena Michel
+- Lisa Reichert
+- Frank Rominger
+- Matthias Rudolph
+- Sven Huettner
+- Yana Vaynzhof
+- Eva M. Herzig
 - A. S. K. Hashmi
 - Jana Zaumseil
 date: "2015-09-01T00:00:00Z"
