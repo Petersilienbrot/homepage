@@ -1,6 +1,6 @@
 +++
 # Additional optional widget.
-widget = "addition"  # Do not modify this line!
+widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Accomplish&shy;ments"
