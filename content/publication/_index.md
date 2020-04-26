@@ -11,7 +11,7 @@ view = 4
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "featured.png"
 caption = ""
 +++
 
