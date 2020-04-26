@@ -45,4 +45,9 @@ weight = 7
   name = "Python"
   description = "30%"
 
+ [[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "TeX"
+  description = "70%"
 +++
