@@ -22,14 +22,14 @@ date_format = "Jan 2006"
   company = "Schlichting group"
   company_url = ""
   location = "MPI for medical research"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2018-04"
+  date_end = "2019-02"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Synthesis of organic compounds
+  * Extraction of membrane components of bacteria
+  * Setting up lab equipment
   """
 
 [[experience]]
