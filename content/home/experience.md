@@ -57,7 +57,17 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Heidelberg University"
   date_start = "2018-04-05"
-  date_end = "2019-07-31"
+  date_end = "2018-07-31"
   description = """Probing the effect of solution processing parameters on electrical properties of organic semiconductors."""
+  
+  [[experience]]
+  title = "Research Intern"
+  company = "Bunz group"
+  company_url = ""
+  location = "InnovationLab"
+  date_start = "2018-02-04"
+  date_end = "2018-03-15"
+  description = """Sterically crowded aromatic compounds as model systems for cubic graphite."""
+  
 
 +++
