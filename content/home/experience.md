@@ -34,7 +34,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = Research Intern"
+  title = "Research Intern"
   company = "Dreuw group, IWR"
   company_url = ""
   location = "Heidelberg"
