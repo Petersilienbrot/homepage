@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "Schlichting group @ MPI for medical research"
+  company = "Schlichting group MPI for medical research"
   company_url = ""
   location = "Heidelberg"
   date_start = "2018-04"
@@ -34,7 +34,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Dreuw group, IWR"
+  company = "Dreuw group IWR"
   company_url = ""
   location = "Heidelberg"
   date_start = "2018-09"
