@@ -16,21 +16,33 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "syringe"
+  icon_pack = "fas"
+  name = "Schlenk technique"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "flask"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Synthesis"
+  description = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "microscope"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Chemical Analytics"
+  description = "90%"
+  
+ [[feature]]
+  icon = "server"
+  icon_pack = "fas"
+  name = "Computational Chemistry"
+  description = "60%"
+  
+ [[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "30%"
 
 +++
