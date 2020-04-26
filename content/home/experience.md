@@ -38,7 +38,16 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Heidelberg University"
   date_start = "2018-09-30"
-  date_end = "2016-11-06"
+  date_end = "2018-11-06"
   description = """Benchmarking density functional for computation of X-Ray absorption spectra."""
+  
+  [[experience]]
+  title = "Research Intern"
+  company = "Gade group"
+  company_url = ""
+  location = "Heidelberg University"
+  date_start = "2018-12-05"
+  date_end = "2019-01-31"
+  description = """Synthesis of tetraazaperylenes as precursors to octaazaperopyrenes."""
 
 +++
