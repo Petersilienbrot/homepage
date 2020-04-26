@@ -27,6 +27,7 @@ date_format = "January 2006"
   date_end = "2019-02"
   description = """
   Responsibilities include:
+  
   * Synthesis of organic compounds
   * extraction and separation of membrane components from bacteria
   * setting up of lab equipment
