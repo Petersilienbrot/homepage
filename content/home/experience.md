@@ -20,12 +20,12 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "Schlichting group, MPI for medical research"
+  company = "Schlichting group @ MPI for medical research"
   company_url = ""
   location = "Heidelberg"
   date_start = "2018-04"
   date_end = "2019-02"
-  description = ""
+  description = """
   Responsibilities include:
   
   * Synthesis of organic compounds
