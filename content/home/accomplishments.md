@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,15 +22,15 @@ date_format = "Jan 2006"
 [[item]]
   title = "Award for an excellent bachelor's degree"
   organization = "Theodor-Curtius Foundation"
-  certificate_url = "2017-12-02"
-  date_start = ""
+  certificate_url = ""
+  date_start = "2017-12-02"
   date_end = ""
   description = ""
 
 [[item]]
   title = "Award for general university entry qualitfication (Abitur) in chemistry"
-  organization = "GdCh"
-  certificate_url = "https://www.edx.org"
+  organization = "GdCH"
+  certificate_url = ""
   date_start = "2014-07-01"
   date_end = ""
   description = ""
