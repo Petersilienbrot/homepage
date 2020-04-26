@@ -20,27 +20,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Award for an excellent bachelor's degree"
+  organization = "Theodor-Curtius Foundation"
+  certificate_url = "2017-12-02"
+  date_start = ""
   date_end = ""
   description = ""
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
+  title = "Award for general university entry qualitfication (Abitur) in chemistry"
+  organization = "GdCh"
   certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  date_start = "2014-07-01"
   date_end = ""
   description = ""
   
-[[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
 
 +++
