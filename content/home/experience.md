@@ -49,5 +49,15 @@ date_format = "Jan 2006"
   date_start = "2018-12-05"
   date_end = "2019-01-31"
   description = """Synthesis of tetraazaperylenes as precursors to octaazaperopyrenes."""
+  
+  
+  [[experience]]
+  title = "Research Intern"
+  company = "Zaumseil group"
+  company_url = ""
+  location = "Heidelberg University"
+  date_start = "2018-04-05"
+  date_end = "2019-07-31"
+  description = """Probing the effect of solution processing parameters on electrical properties of organic semiconductors."""
 
 +++
